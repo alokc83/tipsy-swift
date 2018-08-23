@@ -5,8 +5,9 @@ This is list of tips and tricks that I have found along the way. I don't claim t
 
 ## Contents
 * [Collections](./collections/README.md) <br>
-* [Declarations](./declarations/README.md)<br>
-* [Switch](./switch/README.md) <br>
+* [Declaration of variables and classes](./declarations/README.md)<br>
+* [Loops](./loops/README.md) <br>
+* [Switch case statement](./switch/README.md) <br>
 
 🚧🚧🚧🚧 Work in progress 🚧🚧🚧🚧<br>
 👷‍alokc83
