@@ -30,3 +30,6 @@ _Any attempt to override a final method, property, or subscript in a subclass is
 _You can mark an entire class as final by writing the final modifier before the class keyword in its class definition (final class). Any attempt to subclass a final class is reported as a compile-time error._
 
 [Apple Doc Inheritence](https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html)
+
+----------------------------------
+[return to home](../README.md)
