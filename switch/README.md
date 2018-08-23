@@ -1,6 +1,5 @@
-# tipsy-swift
 
-### Switch Tips
+### Home > Switch Tips
 ------------------
 
 *simpletest switch*
