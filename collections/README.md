@@ -8,3 +8,6 @@ let userCellsData = users.**lazy**.map { user in
 formatBioString(user.bio))
 }
 ```
+----------------------------------
+[return to home](../README.md)
+
