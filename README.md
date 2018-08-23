@@ -4,9 +4,9 @@ This idea came one Friday night when I was out drinking :beers: with some of the
 This is list of tips and tricks that I have found along the way. I don't claim that I devise them. I found, read and learn them along the way. 
 
 ## Contents
-* [Collections](../collection/README.md) <br>
-* [Declarations](../declaration/README.md)<br>
-* [Switch](../switch/README.md) <br>
+* [Collections](./collections/README.md) <br>
+* [Declarations](./declarations/README.md)<br>
+* [Switch](./switch/README.md) <br>
 
 🚧🚧🚧🚧 Work in progress 🚧🚧🚧🚧<br>
 👷‍alokc83
