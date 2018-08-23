@@ -8,6 +8,7 @@ let name = “Ironman”
 switch name {
 case “Spiderman”:  print(“Hello Perter Parker”)
 case “Ironman”: print(“Hello Tony Stark”)
+}
 ```
 
 **Comparing More than one value** 
@@ -18,6 +19,7 @@ switch (name, pass)  {
 case (“Spiderman”,  “park3r”):  print(“Hello Perter Parker”)
 case (“Ironman”, “m#n”): print(“Hello Tony Stark”)
 default: print(“who are you?”)
+}
 ```
 
 **Using tuple to make above code look pretty** 
@@ -27,6 +29,7 @@ switch authentication  {
 case (“Spiderman”,  “park3r”):  print(“Hello Perter Parker”)
 case (“Ironman”, “m#n”): print(“Hello Tony Stark”)
 default: print(“who are you?”)
+}
 ```
 
 **Partial matching with tuple**
@@ -36,6 +39,7 @@ switch authentication  {
 case (“Spiderman”,  “park3r”, _):  print(“Hello Perter Parker”)
 case (“Ironman”, “m#n”, _): print(“Hello Tony Stark”)
 default: print(“who are you?”)
+}
 ```
 
 _Always remember swift picks up the first match not better match. 
@@ -47,6 +51,7 @@ switch authentication  {
 case (“Spiderman”,  “park3r”, _):  print(“Hello Perter Parker”)
 case (“Ironman”, let pass, _): print(“Hello Tony Stark,: pass was \(pass)!”)
 default: print(“who are you?”)
+}
 ```
 
 ----------------------------------
