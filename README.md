@@ -9,4 +9,4 @@ This is list of tips and tricks that I have found along the way. I don't claim t
 * [Switch](../switch/README.md) <br>
 
 🚧🚧🚧🚧 Work in progress 🚧🚧🚧🚧<br>
-👷‍♂️alokc83
+👷‍alokc83
