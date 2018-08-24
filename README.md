@@ -1,8 +1,8 @@
 
 ![](./tipsy-swift-logo.png)
-This idea came one Friday night when I was out drinking :beers: with some of the smartest iOS developers on planet earth :earth_asia:. Hence the name :smile: 
+This idea came to me when I was out drinking :beers: with some of the smartest iOS developers on planet earth :earth_asia: on **Friday The 13th Night**. Hence the name and the logo :smile: 
 
-This is list of tips and tricks that I have found along the way. I don't claim that I devise them. I found, read and learn them along the way. 
+This is curared list of tips/tricks that I have _found/learned/used_ along the way. 
 
 ## Contents
 * [Collections](./collections/README.md) <br>
@@ -11,4 +11,5 @@ This is list of tips and tricks that I have found along the way. I don't claim t
 * [Switch case statement](./switch/README.md) <br>
 
 🚧🚧🚧🚧 Work in progress 🚧🚧🚧🚧<br>
-👷‍alokc83
+**Thanks** <br>
+👷‍[Alok Choudhary](https://github.com/alokc83/)
