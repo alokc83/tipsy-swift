@@ -10,6 +10,6 @@ This is curared list of tips/tricks that I have _found/learned/used_ along the w
 * [Loops](./loops/README.md) <br>
 * [Switch case statement](./switch/README.md) <br>
 
-🚧🚧🚧🚧 Work in progress 🚧🚧🚧🚧<br>
+More tips/tricks are added weekly basis. Stay tuned in.<br>
 **Thanks** <br>
 👷‍[Alok Choudhary](https://github.com/alokc83/)
