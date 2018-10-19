@@ -5,13 +5,13 @@ let spiderman = (name: “Peter”, password: “Spid3r”)
 let deadpool = (name: “Wade”, password: “w1lls0n”)
 let users = [iornman, spiderman, deadpool]
 
-**simply printing name**
+//simply printing name
 for user in users {
    print(user.name)
 } 
 ```
 
-**Just like _switch_, we can user **case**  with a tuple to match specific values inside the tuples.** 
+**Just like _switch_, we can user case  with a tuple to match specific values inside the tuples.** 
 ```swift
 For case(“Wade”, “w1lls0n”) in users {
 print(“user Wade’s pass is w1lls0n”)
