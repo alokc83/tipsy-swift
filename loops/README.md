@@ -13,30 +13,30 @@ for user in users {
 
 **Just like _switch_, we can user case  with a tuple to match specific values inside the tuples.** 
 ```swift
-For case(“Wade”, “w1lls0n”) in users {
-print(“user Wade’s pass is w1lls0n”)
-}
+    for case("Wade", "w1lls0n") in users {
+        print("user Wade’s pass is w1lls0n")
+    }
 ```
 
 **You can also bind local constants to values of each tuple:** 
 ```swift
-for case  (let name, let pass) in users {
-print(“User \(name) ’s pass is \(pass)”
-}
+    for case  (let name, let pass) in users {
+    print("User \(name) ’s pass is \(pass)")
+    }
 ```
 
 **You can also rearrange it in tuple format as below:**
 ```swift
-for case let (name, pass) in users {
- print(“User \(name) ’s pass is \(pass)”
-}
+    for case let (name, pass) in users {
+     print("User \(name) ’s pass is \(pass)")
+    }
 ```
 
 **You can also mix and match above mentioned techniques**
 ```swift
-for case let (name, “Spid3r”) in users {
- print(“User \(name) ’s pass is Spid3r”)
-}
+    for case let (name, "Spid3r") in users {
+     print("User \(name) ’s pass is Spid3r")
+    }
 ```
 
 Above technique filters out the array for pass phrase. 
