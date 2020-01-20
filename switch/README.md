@@ -1,6 +1,7 @@
 
 ### Home > Switch Tips
 ------------------
+<p>Please find Swift playground <a href="https://github.com/alokc83/alokchoudhary.com/tree/master/SwiftTips/acdotcom-switchTips" target="_blank">here on github.</a></p>
 
 **Simpletest switch**
 ```swift
