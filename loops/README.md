@@ -1,9 +1,9 @@
 ## Loops
 ```swift
-let ironman = (name: “Tony”, password: “M#n”)
-let spiderman = (name: “Peter”, password: “Spid3r”)
-let deadpool = (name: “Wade”, password: “w1lls0n”)
-let users = [iornman, spiderman, deadpool]
+    let ironman = (name: "Tony", password: "M#n")
+    let spiderman = (name: "Peter", password: "Spid3r")
+    let deadpool = (name: "Wade", password: "w1lls0n")
+    let users = [ironman, spiderman, deadpool]
 
 //simply printing name
 for user in users {
